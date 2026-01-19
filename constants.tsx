@@ -52,7 +52,7 @@ export const PROJECTS: ProjectItem[] = [
     title: "ACTONE CLOUD MIGRATION",
     mission: "Modernizing the Investigation Hub",
     problem: "Legacy on-prem systems were reaching capacity and lacked horizontal scalability.",
-    solution: "Transitioned core investigation workflows to OpenShift using containerized Spring Boot services.",
+    solution: "Transitioned ActOne Application to OpenShift using containerized services.",
     impact: "100% uptime during peak holiday banking periods.",
     tech: ["OpenShift", "Java", "Docker", "Kubernetes"]
   }
@@ -61,7 +61,7 @@ export const PROJECTS: ProjectItem[] = [
 export const SKILL_CATEGORIES: SkillCategory[] = [
   {
     name: "Languages",
-    skills: ["Java (J2EE)", "Python", "SQL", "Shell Scripting"],
+    skills: ["Java", "Python", "SQL", "Shell Scripting"],
     color: "#06b6d4"
   },
   {
@@ -76,7 +76,34 @@ export const SKILL_CATEGORIES: SkillCategory[] = [
   },
   {
     name: "Data & Messaging",
-    skills: ["Kafka", "RabbitMQ", "Oracle", "MongoDB"],
+    skills: ["Kafka", "Oracle", "SQL Server"],
     color: "#10b981"
   }
+];
+
+export const certifications = [
+  {
+    title: "Java Programming ",
+    issuer: "Udemy",
+    date: "2020",
+    icon: "☕",
+  },
+  {
+    title: "Python",
+    issuer: "Udemy",
+    date: "2020",
+    icon: "🐍",
+  },
+  {
+    title: "Django Full Stack Web Development",
+    issuer: "Udemy",
+    date: "2020",
+    icon: "🎸",
+  },
+  {
+    title: "Generative AI & LLM Fundamentals",
+    issuer: "Udemy",
+    date: "In Progress",
+    icon: "🤖",
+  },
 ];

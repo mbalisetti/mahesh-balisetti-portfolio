@@ -22,7 +22,7 @@ const Hero: React.FC = () => {
             <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-cyan-400 opacity-75"></span>
             <span className="relative inline-flex rounded-full h-2 w-2 bg-cyan-500"></span>
           </span>
-          Software Engineering
+          Software Engineer
         </motion.div>
         
         <h1 className="font-orbitron text-5xl md:text-7xl lg:text-8xl font-bold mb-8 leading-tight tracking-tight">

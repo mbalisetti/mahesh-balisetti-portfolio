@@ -8,6 +8,7 @@ import Experience from './components/Sections/Experience';
 import Skills from './components/Sections/Skills';
 import Projects from './components/Sections/Projects';
 import Contact from './components/Sections/Contact';
+import Certification from "./components/Sections/Certification";
 
 const App: React.FC = () => {
   // Simple initialization log
@@ -31,6 +32,7 @@ const App: React.FC = () => {
         <Hero />
         <About />
         <Experience />
+        <Certification />
         <Skills />
         <Projects />
         <Contact />

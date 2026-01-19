@@ -10,6 +10,7 @@ const Navbar: React.FC = () => {
     { id: 'skills', label: 'Stack', icon: Terminal },
     { id: 'projects', label: 'Missions', icon: Layers },
     { id: 'contact', label: 'Secure Channel', icon: Send },
+    { id: 'certifications', label: 'Certifications', icon: Send },
   ];
 
   const scrollTo = (id: string) => {

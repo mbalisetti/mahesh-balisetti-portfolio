@@ -17,10 +17,10 @@ const Contact: React.FC = () => {
           className="space-y-8"
         >
           <div className="space-y-4">
-            <h2 className="text-cyan-400 font-mono tracking-widest text-sm uppercase">SECURE CHANNEL</h2>
+            <h2 className="text-cyan-400 font-mono tracking-widest text-sm uppercase">CHANNEL</h2>
             <h3 className="font-orbitron text-5xl font-bold text-white">LET'S BUILD SECURE SYSTEMS TOGETHER</h3>
             <p className="max-w-xl mx-auto text-slate-400 text-lg font-light leading-relaxed">
-              Open for collaboration on Actimize implementations, and modern Java architecture.
+              Open for collaborations
             </p>
           </div>
 
@@ -35,7 +35,7 @@ const Contact: React.FC = () => {
             </motion.a> */}
             <motion.a
               whileHover={{ scale: 1.1, y: -5 }}
-              href="https://linkedin.com"
+              href="https://linkedin.com/in/babu3916"
               target="_blank"
               rel="noreferrer"
               className="p-4 bg-slate-900/80 border border-white/10 rounded-2xl hover:border-blue-500/50 hover:bg-blue-500/5 transition-all group"
