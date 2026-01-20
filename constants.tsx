@@ -7,7 +7,6 @@ export const EXPERIENCES: ExperienceItem[] = [
     role: "Actimize / Java Developer",
     period: "2022 - Present",
     description: [
-      "      Leading fraud detection platform modernization.",
       "Experienced in IFM solution, effectively transforming business requirements into scalable and efficient technical solutions.",
       "Implemented various plugins including GUI, conditional status change, post-step change, and post-action event plugins aligned with business logic.",
       "Developed a custom java plugin to link accounts for a member, configured a GUI button on the Work Item page to open a form for capturing account details, and implemented a controller to handle the business logic for linking the account to the member.",
@@ -24,7 +23,7 @@ export const EXPERIENCES: ExperienceItem[] = [
       "Developed and configured RCM components including Dart Views, Dart Queries, Workflows, and dashboards to streamline investigation processes.",
       "Authored detailed wiki documentation on developer setup, session handling, and debugging guidelines, improving knowledge transfer and reducing onboarding effort for new developers."
     ],
-    tools: ["Java", "Actimize AIS", "Spring Boot", "OpenShift", "Oracle"],
+    tools: ["Java", "Actimize", "Spring Boot", "OpenShift", "Oracle", "AWS"],
     impact: "Migrated ActOne application from legacy Jboss environment to modernized OpenShift."
   },
   {

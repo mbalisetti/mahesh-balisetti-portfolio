@@ -33,7 +33,7 @@ const Hero: React.FC = () => {
         </h1>
         
         <p className="max-w-2xl mx-auto text-lg md:text-xl text-slate-400 mb-12 font-light leading-relaxed">
-          Specializing in Java, <span className="text-cyan-400 font-medium">Actimize ActOne/RCM Plugins</span>, and Enterprise Cloud.
+          Specializing in Java, Python, GenAI, <span className="text-cyan-400 font-medium">Actimize ActOne/RCM Plugins</span>, and Enterprise Cloud.
         </p>
 
         <div className="flex flex-col sm:flex-row items-center justify-center gap-6">

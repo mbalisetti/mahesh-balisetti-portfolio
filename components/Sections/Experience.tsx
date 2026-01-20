@@ -9,7 +9,7 @@ const Experience: React.FC = () => {
     <section id="experience" className="py-24 px-10 bg-slate-900/20">
       <div className="max-w-6xl mx-auto">
         <div className="text-left mb-16 space-y-4">
-          <h2 className="text-cyan-400 font-mono tracking-widest text-sm uppercase">02 TRAJECTORY</h2>
+          <h2 className="text-cyan-400 font-mono tracking-widest text-sm uppercase">TRAJECTORY</h2>
           <h3 className="font-orbitron text-4xl font-bold text-white">THE MISSION LOG</h3>
         </div>
 

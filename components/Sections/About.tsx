@@ -28,7 +28,7 @@ const About: React.FC = () => {
           <div className="relative p-8 rounded-2xl bg-slate-900/40 border border-white/10 backdrop-blur-xl shadow-2xl">
             <div className="absolute top-0 left-0 w-full h-1 bg-gradient-to-r from-cyan-500 to-purple-600 rounded-t-2xl"></div>
             <p className="text-slate-300 text-lg leading-relaxed mb-6 font-light">
-              <span className="text-white font-medium">Actimize / Java Engineer</span> with 2+ years of experience working on fraud detection systems. Hands-on experience with IFM solution, ActOne customization, developing custom RCM java plugins, REST API Integration, and application migration. Strong team player focused on building reliable and secure systems.
+              <span className="text-white font-medium">Software Engineer</span> with 2+ years of experience working on fraud detection systems. Hands-on experience with IFM solution, ActOne customization, developing custom RCM java plugins, REST API Integration, and application migration. Strong team player focused on building reliable and secure systems.
             </p>
           </div>
           
