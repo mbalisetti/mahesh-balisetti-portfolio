@@ -5,7 +5,7 @@ export const EXPERIENCES: ExperienceItem[] = [
   {
     company: "USAA",
     role: "Actimize / Java Developer",
-    period: "2022 - Present",
+    period: "July 2024 - Current",
     description: [
       "Experienced in IFM solution, effectively transforming business requirements into scalable and efficient technical solutions.",
       "Implemented various plugins including GUI, conditional status change, post-step change, and post-action event plugins aligned with business logic.",
@@ -29,7 +29,7 @@ export const EXPERIENCES: ExperienceItem[] = [
   {
     company: "Wipro",
     role: "Project Engineer",
-    period: "2021 - 2022",
+    period: "September 2021 - October 2022",
     description: [
       "Strala Energy, by British Petroleum, is an innovative energy monitoring application that seamlessly connects households, vehicles, and communities. This robust platform empowers users with real-time insights, offering details like energy consumption and vehicle CO2 emissions, fostering informed decision-making.",
       "Actively involved in the analysis, development, and implementation phases of the software development lifecycle.",
