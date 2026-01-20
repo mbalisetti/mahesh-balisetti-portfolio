@@ -83,19 +83,19 @@ export const SKILL_CATEGORIES: SkillCategory[] = [
 export const certifications = [
   {
     title: "Java Programming ",
-    issuer: "Udemy",
+    issuer: "DurgaSoft",
     date: "2020",
     icon: "☕",
   },
   {
     title: "Python",
-    issuer: "Udemy",
+    issuer: "DurgaSoft",
     date: "2020",
     icon: "🐍",
   },
   {
     title: "Django Full Stack Web Development",
-    issuer: "Udemy",
+    issuer: "DurgaSoft",
     date: "2020",
     icon: "🎸",
   },
