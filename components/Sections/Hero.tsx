@@ -26,7 +26,7 @@ const Hero: React.FC = () => {
         </motion.div>
         
         <h1 className="font-orbitron text-5xl md:text-7xl lg:text-8xl font-bold mb-8 leading-tight tracking-tight">
-          <span className="block text-white">Mahesh Babu Balisetti</span>
+          <span className="block text-white">Babu Mahesh</span>
           {/* <span className="block bg-clip-text text-transparent bg-gradient-to-r from-cyan-400 via-blue-500 to-purple-600">
             Scalable Fraud Systems
           </span> */}
