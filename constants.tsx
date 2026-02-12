@@ -25,9 +25,8 @@ export const EXPERIENCES: ExperienceItem[] = [
     role: "Project Engineer",
     period: "September 2021 - October 2022",
     description: [
-      "Developed REST APIs using Java 8, Spring Boot, Spring MVC.",
+      "Designed and developed scalable RESTful APIs using Java and Spring Boot, enabling secure data exchange between microservices.",
       "Designed reusable Java components following OOP principles.",
-      "Containerized applications using Docker for CI/CD deployments.",
       "Wrote unit tests using JUnit and Mockito.",
       "Developed and optimized SQL queries & stored procedures.",
       "Worked in Agile/Scrum, managed code using GitLab, and supported UAT/production releases."
